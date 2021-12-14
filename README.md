@@ -1,7 +1,7 @@
 ## DRF AUTH
 
 ---
-***[Pull Request .....](https://github.com/mhmadwrekat/drf-auth/pull/1)***
+***[Pull Request .....](https://github.com/mhmadwrekat/drf-auth/tree/main/things)***
 
 ---
 ## Feature Tasks and Requirements
