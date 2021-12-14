@@ -17,3 +17,4 @@
 - [x] Adjust docker-compose.yml so that data is persisted in a volume outside of container .
 
 ---
+---
